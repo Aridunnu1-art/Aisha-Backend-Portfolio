@@ -55,7 +55,11 @@ PennyPilot is a financial management application designed to help users manage i
 - MongoDB
 - JWT
 - Joi Validation
-  
+## penny pilot project screenshots
+! [Dashboard] (1.png)
+! [Income Page] (2.png)
+! [summary] (3.png)
+
 ## Project Links
 
 GitHub Repository: https://github.com/Aridunnu1-art/Fintech-Backend-Project
