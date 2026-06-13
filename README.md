@@ -63,102 +63,64 @@ GitHub Repository: https://github.com/Aridunnu1-art/Fintech-Backend-Project
 Live API: https://fintech-backend-project-96mb.onrender.com
 
 ## Other Projects
-CRUD To-Do API
+### CRUD To-Do API
+- Developed a RESTful API for task management.
+- Implemented Create, Read, Update, and Delete operations.
+- Built using Node.js, Express.js, and MongoDB.
+  
+### Note-Taking API
+- Developed an API for creating and managing notes.
+- Implemented full CRUD functionality.
+- Built using Node.js, Express.js, and MongoDB.
+  
+### Blog API
+- Developed a blogging API for managing blog posts.
+- Implemented CRUD operations and database integration.
+- Built using Node.js, Express.js, MongoDB, and Mongoose.
 
-Developed a RESTful API for task management.
-
-Implemented Create, Read, Update, and Delete operations.
-
-Built using Node.js, Express.js, and MongoDB.
-Note-Taking API
-
-Developed an API for creating and managing notes.
-
-Implemented full CRUD functionality.
-
-Built using Node.js, Express.js, and MongoDB.
-Blog API
-
-Developed a blogging API for managing blog posts.
-
-Implemented CRUD operations and database integration.
-
-Built using Node.js, Express.js, MongoDB, and Mongoose.
-
-⸻
-Learning Journey
-
-Throughout my Backend Development training, I gained practical experience in:
-
-REST API Development
-
-Authentication & Authorization
-
-CRUD Operations
-
-Database Design
-
-Error Handling
-
-API Testing
-
-Git & GitHub Collaboration
-
-Deployment and Hosting
-
+### Learning Journey
+#### Throughout my Backend Development training, I gained practical experience in:
+- REST API Development
+- Authentication & Authorization
+- CRUD Operations
+- Database Design
+- Error Handling
+- API Testing
+- Git & GitHub Collaboration
+- Deployment and Hosting
 These experiences strengthened my ability to build and maintain backend systems that are secure, reliable, and scalable.
 
-⸻
-Challenges and Solutions
-Challenge: User Authentication
+## Challenges and Solutions
+### User Authentication
+- Implementing secure authentication and authorization for users.
+#### Solution
+- Implemented JWT Authentication and middleware protection to secure private routes.
+### Financial Transactions
+- Maintaining accurate user balances after income and expense transactions.
+#### Solution
+- Created transaction logic that automatically updates user balances whenever a transaction is created.
+### Deployment
+- Deploying backend services and ensuring they remain accessible online.
+#### Solution
+- Used Render for deployment and configured environment variables for production.
 
-Implementing secure authentication and authorization for users.
-Solution
+### Future Goals
+#### I am continuously improving my skills and currently working toward learning:
+- TypeScript
+- PostgreSQL
+- Docker
+- Microservices
+- Cloud Computing
+- System Design
 
-Implemented JWT Authentication and middleware protection to secure private routes.
-Challenge: Financial Transactions
-
-Maintaining accurate user balances after income and expense transactions.
-Solution
-
-Created transaction logic that automatically updates user balances whenever a transaction is created.
-Challenge: Deployment
-
-Deploying backend services and ensuring they remain accessible online.
-Solution
-
-Used Render for deployment and configured environment variables for production.
-
-⸻
-Future Goals
-
-I am continuously improving my skills and currently working toward learning:
-
-TypeScript
-
-PostgreSQL
-
-Docker
-
-Microservices
-
-Cloud Computing
-
-System Design
-
-⸻
-Contact
+### Contact:
 08103660505
-GitHub
-
+### GitHub:
 https://github.com/Aridunnu1-art
-LinkedIn
-
+### LinkedIn
 www.linkedin.com/in/aisha-salau-b474143a0
-Email
-
+### Email
 salauaisha53@gmail.com
-Thank you for visiting my portfolio. I am excited about opportunities to collaborate, learn, and contribute to impactful software projects.
-GitHub - Aridunnu1-art/Fintech-Backend-Project
-Contribute to Aridunnu1-art/Fintech-Backend-Project development by creating an account on GitHub.
- 
+
+#### Thank you for visiting my portfolio. I am excited about opportunities to collaborate, learn, and contribute to impactful software projects.
+
